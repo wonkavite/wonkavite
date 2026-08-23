@@ -1,13 +1,13 @@
 # Hi there👋   I'm Cloud Katsiga
 
-I am an   🤖AI Software Developer and I am more interested in integrating Machine Learning models into Applications or websites. 
+#### I am an   🤖AI Software Developer and I am more interested in integrating Machine Learning models into Applications and websites. 
 
 # 💫 About Me:
-🎓 BCA Student  
-🤖 AI Software Developer  
-📊 Data Analytics  
-⚡ FastAPI  
-🔗 RESTful API Design
+##### 🎓 BCA Student  
+##### 🤖 AI Software Developer  
+##### 📊 Data Analytics  
+##### ⚡ FastAPI  
+##### 🔗 RESTful API Design
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CloudKatsiga) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wonka_devops) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CloudKatsiga) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Wonka) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Excellent-Web2390) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@wonka_devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cloudkatsiga@gmail.com) 
@@ -21,6 +21,8 @@ I am an   🤖AI Software Developer and I am more interested in integrating Mach
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+#### "Great Ideas come when you start working on them, the best thing is to get started!" by Zukerberg
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wonkavite&limit=5&theme=dark&combine_all_yearly_contributions=true)
