@@ -1,6 +1,6 @@
 # Hi there👋   I'm Cloud Katsiga
 
-#### I am an   🤖AI Software Developer and I am more interested in integrating Machine Learning models into Applications and websites. 
+#### I am an   🤖AI Full Stack Software Developer and I am more interested in integrating Machine Learning models into Applications and websites. 
 
 # 💫 About Me:
 ##### 🎓 BCA Student  
