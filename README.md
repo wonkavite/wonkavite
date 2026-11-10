@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 ##### 🎓 BCA Student  
-##### 🤖 Software, Gen AI Developer 
+##### 🤖 Agentic AI and RAG Systems
 ##### 📊 Data Analytics  
 ##### ⚡ FastAPI backend developer 
 ##### 🔗 RESTful API Design
