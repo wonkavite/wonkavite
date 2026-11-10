@@ -1,6 +1,6 @@
 # Hi there👋   I'm Cloud Katsiga
 
-#### I am an   🤖AI Full Stack Software Developer much into integrating Machine Learning models,Generative AI Models into Applications and websites. 
+#### I am a Generative AI Developer who build AI powered Apps, Intelligent systems and ChatBots
 
 # 💫 About Me:
 ##### 🎓 BCA Student  
